@@ -301,5 +301,5 @@ async def vickprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print("Your Chatbot Is Ready Now! Join @II_TG_FRIENDS_II And")
+print("Your Chatbot Is Ready Now! Join @TG_FRIENDSS ")
 bot.run()
